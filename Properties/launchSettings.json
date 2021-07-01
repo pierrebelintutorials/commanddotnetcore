@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyAppConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "-s \"ETHBNB\" -a \"BLALBLA\""
+    }
+  }
+}
